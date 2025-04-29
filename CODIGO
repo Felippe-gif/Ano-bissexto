@@ -1,0 +1,6 @@
+# ano = int(input('digite seu ano:'))
+
+# if ano %4 == 0 or ano % 400 ==0:
+#     print('bissexto')
+# else:
+#     print('nao é bissexto')
